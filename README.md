@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @elcChat
-- 👀 I’m interested in code
-- 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on nobody
-- 📫 How to reach me nope
-- 😄 Pronouns: il/elle
+- 👋 Hi, I’m @Leayu
+- Im good in code
+- Im currently learning code
+- I can code with u if u want
+- saucisson
+- Pronouns: cat
 - ⚡ Fun fact: im a cat
 
 <!---
